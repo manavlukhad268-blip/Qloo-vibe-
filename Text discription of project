@@ -1,0 +1,25 @@
+Project Description: Qloo-vibe
+​Qloo-vibe is a production-ready, ultra-modern, glassmorphic cultural intelligence dashboard built specifically for the Qloo Agentic Hackathon. It bridges the gap between raw data and cultural intuition, serving as an agentic workspace that maps deep connections across music, movies, fashion, dining, and travel. Designed with a stunning dual-theme interface (Navy Blue Dark Mode and Soft Light Purple Light Mode), the application provides instant, multi-dimensional taste profiles for any seed entity.
+​Key Features & Functionality
+​The application is structured around a streamlined 3-tab architecture powered by 10 advanced UI/UX components:
+​Tab 1: Input Engine
+​Seed Entity Search: Input any artist, movie, brand, or creator.
+​Multi-Category Selection: Choose across Music, Movies, Fashion, Dining, and Travel.
+​Audience Segments & Parameters: Toggle between target profiles like Gen-Z, Luxury, Niche Indie, and Mainstream, accompanied by intensity and diversity sliders.
+​Tab 2: Cultural Output & Intelligence Hub
+​Interactive 3D Taste Graph Mesh: A dynamic, rotatable node-based network visualizing cultural relationships.
+​AI Persona Avatar & Badge Generator: Instantly generates a tailored persona profile (e.g., "Cyber-Minimalist Trendsetter").
+​Live Affinity Heatmap Bars: Color-coded progress bars displaying percentage similarity scores per category.
+​Cultural DNA Radar Chart: A 5-axis radar chart balancing taste across entertainment and lifestyle sectors.
+​Real-Time Vibe Preview Player: Audio sample preview cards with animated equalizer effects.
+​Co-Branding Match Matrix: An interactive grid showing top global brand partnerships.
+​Executive PDF/JSON Exporter: One-click download for professional briefing decks or raw data.
+​Audience Scenario Simulator: Instantly recalculates scores when toggling demographic filters.
+​Live Data Source Indicator: Real-time badge tracking API connectivity status.
+​Tab 3: Saved Favorites & Non-Favorites Manager
+​A dedicated bookmarking system allowing users to organize, manage, and clear their preferred cultural matches.
+​Global Utilities:
+​15-Language Global Switcher: Instantly translates the entire application UI reactively into top world languages (including Hindi, Spanish, French, Mandarin, and Arabic).
+​What Makes It "Qloo-Powered"?
+​Standard AI models (LLMs) often guess or hallucinate user preferences and cultural trends. Qloo-vibe solves this by plugging directly into Qloo's world-class Taste AI™ API ([https://hackathon.api.qloo.com](https://hackathon.api.qloo.com)).  
+​By utilizing Qloo's vast cross-domain database of over 250 million entities, the application provides authentic cultural grounding. It transitions the experience from "technically functional" to "genuinely insightful," delivering data-driven behavioral correlations that accurately reflect what real people love across global entertainment and lifestyle sectors.
